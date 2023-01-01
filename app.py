@@ -22,8 +22,13 @@ SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/mehrdad-touraji-6a7bb3234/",
     "GitHub": "https://github.com/muttifm",
 }
+
 PROJECTS = {
-    "🏆 ... ",
+    "🏆 Applying Advanced LookML Concepts in Looker": "https://www.cloudskillsboost.google/public_profiles/ee8343cc-a3ce-412c-b33e-de8209ff9645/badges/3060629?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+    "🏆 RevOps Certified (Hotspot)": "https://app-eu1.hubspot.com/academy/achievements/48ct57xg/en/1/mehrdad-touraji/revenue-operations",
+    "🏆 Database Objects, Virtual Warehouse creation and configuration, loading and querying": "https://www.credly.com/badges/4a841404-472b-4f55-b6ee-24d344195bad/linked_in_profile",
+    "🏆 Data Science with Python": "https://www.linkedin.com/posts/mehrdad-touraji-6a7bb3234_im-happy-to-share-that-ive-obtained-a-new-activity-7008126054481436672-wWe2/?utm_source=share&utm_medium=member_desktop",
+    "🏆 AWS Cloud Practioner": "https://www.linkedin.com/posts/mehrdad-touraji-6a7bb3234_validate-or-obtain-understanding-of-cloud-activity-7005602814936686592-WWy-/?utm_source=share&utm_medium=member_desktop",
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
