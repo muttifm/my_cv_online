@@ -84,10 +84,10 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, LookML 
-- 📊 Data Visulization: Tableau , Plotly, Seasborn
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, LookML
+- 📊 Data Visulization: Tableau , Plotly, Seasborn, Looker
 - 📚 Modeling: Logistic regression, linear regression, decition trees
-- 🗄️ Databases: MySQL, RDS , PostgreSQL
+- 🗄️ Databases: MySQL, RDS , PostgreSQL, Snowflake
 """
 )
 
@@ -111,7 +111,7 @@ st.write(
 ## 2
 st.write('\n')
 st.write("🚧", "**Quality Analyst | Majorel GmbH**")
-st.write("01/2018 - 02/2022")
+st.write("07/2020 - 12/2021")
 st.write(
     """
 - ► Built data models and maps to generate meaningful insights from customer data, boosting successful productivity eﬀorts by 12%
@@ -123,7 +123,7 @@ st.write(
 ## 3
 st.write('\n')
 st.write("🚧", "**Subject Matter Expert | Arvato CRM Solutions**")
-st.write("04/2015 - 01/2018")
+st.write("08/2019 - 07/2020")
 st.write(
     """
 - ► Devised KPIs across mutli-international world-wide markets in collaboration with cross-functional teams to support Product Managers in clustering and prioritization of requirements
