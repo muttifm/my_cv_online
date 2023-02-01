@@ -72,7 +72,7 @@ st.subheader("Experience & Qulifications")
 st.write(
     """
 - ✔️ 4 Years expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Python and GSheet
+- ✔️ Strong hands on experience and knowledge in Python and GSuite
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
 """
