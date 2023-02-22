@@ -84,7 +84,7 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, LookML
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, LookML, Kotlin, Java
 - 📊 Data Visulization: Tableau , Plotly, Seasborn, Looker
 - 📚 Modeling: Logistic regression, linear regression, decition trees
 - 🗄️ Databases: MySQL, RDS , PostgreSQL, Snowflake
