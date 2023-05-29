@@ -71,10 +71,10 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 4 Years expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Python and GSuite
-- ✔️ Good understanding of statistical principles and their respective applications
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
+- ✔️ Led product strategy and development, collaborating with cross-functional teams to deliver customer-centric solutions.
+- ✔️ Utilized agile methodologies to drive iterative product enhancements, resulting in improved user experience and increased customer satisfaction.
+- ✔️ Applied data-driven insights to make informed product decisions, aligning business objectives with user needs.
+- ✔️  Demonstrated strong leadership skills in guiding product development lifecycles, ensuring timely delivery and meeting strategic goals.
 """
 )
 
@@ -84,10 +84,10 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, LookML, Kotlin, Java
-- 📊 Data Visulization: Tableau , Plotly, Seasborn, Looker
-- 📚 Modeling: Logistic regression, linear regression, decition trees
-- 🗄️ Databases: MySQL, RDS , PostgreSQL, Snowflake
+- 👩‍💻 Proficient in product management tools and methodologies, including agile frameworks (Scrum/Kanban) and product roadmap planning.
+- 📊 Skilled in data-driven decision-making, utilizing analytics and user research to inform product strategy and feature prioritization.
+- 📚 Strong understanding of software development lifecycle (SDLC), user experience (UX) design principles, and market analysis.
+- 🗄️ Experience working with databases, data modeling, and integrating data-driven insights into product development.
 """
 )
 
@@ -102,9 +102,9 @@ st.write("🚧", "**Intraday Management Specialist | Trade Republic Bank GmbH**"
 st.write("07/2020 - Present")
 st.write(
     """
-- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
-- ► Utilised intuitive technology that eliminates mundane tasks and speeds resolutions of issues for better business outcomes
-- ► Redesigning data model through iterations, testing, 
+- ► Led product development initiatives, collaborating with stakeholders to define requirements and deliver high-quality solutions.
+- ► Leveraged user feedback and market research to drive product enhancements, resulting in increased user adoption and revenue growth.
+- ► Acted as a bridge between business stakeholders and development teams, ensuring clear communication and alignment of goals.
 """
 )
 
@@ -114,9 +114,9 @@ st.write("🚧", "**Quality Analyst | Majorel GmbH**")
 st.write("07/2020 - 12/2021")
 st.write(
     """
-- ► Built data models and maps to generate meaningful insights from customer data, boosting successful productivity eﬀorts by 12%
-- ► Modeled targets likely to renew, and presented analysis to leadership, which led to a YoY revenue increase of €300K
-- ► Studied large amounts of data to drive strong understanding of data lifecycle management and data governance and even stronger understanding of data management concepts
+- ► Managed product quality assurance processes, implementing effective testing strategies to enhance product performance and reliability.
+- ► Worked closely with development teams to prioritize and resolve product issues, ensuring timely delivery of bug fixes and feature improvements.
+- ► Contributed to product roadmap planning, leveraging data insights and user feedback to drive continuous product enhancements.
 """
 )
 
@@ -126,9 +126,9 @@ st.write("🚧", "**Subject Matter Expert | Arvato CRM Solutions**")
 st.write("08/2019 - 07/2020")
 st.write(
     """
-- ► Devised KPIs across mutli-international world-wide markets in collaboration with cross-functional teams to support Product Managers in clustering and prioritization of requirements
-- ► Review product changes in the acceptance phase to drive operational analysis of the platform
-- ► Collaborated with analyst team to oversee end-to-end process surrounding customers' return data
+- ► Collaborated with cross-functional teams to define product requirements and validate solutions, ensuring alignment with customer needs and market trends.
+- ► Conducted market research and competitor analysis to identify product gaps and opportunities for innovation.
+- ► Provided subject matter expertise in product demonstrations and client presentations, influencing decision-making and driving successful product adoption.
 """
 )
 
