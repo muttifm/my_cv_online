@@ -24,10 +24,10 @@ SOCIAL_MEDIA = {
 }
 
 PROJECTS = {
-    "🏆 Successfully developed and implemented end-to-end data pipelines, ensuring seamless data flow and processing.","",
-    "🏆 Led the design and optimization of data models, enabling efficient data storage and retrieval.","",
+    "🏆 Successfully developed and implemented end-to-end data pipelines, ensuring seamless data flow and processing.",
+    "🏆 Led the design and optimization of data models, enabling efficient data storage and retrieval.",
     "🏆 Leveraged cloud technologies to architect scalable and cost-effective data solutions.","",
-    "🏆 Collaborated cross-functionally to deliver innovative products and drive business growth through data insights.","",
+    "🏆 Collaborated cross-functionally to deliver innovative products and drive business growth through data insights."
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
@@ -140,5 +140,5 @@ st.write('\n')
 st.subheader("Projects & Accomplishments")
 st.write("---")
 for project, link in PROJECTS.items():
-    st.write(f"[{project}]({link})")
+    st.write({project})
 
